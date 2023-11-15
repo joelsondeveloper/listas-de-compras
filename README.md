@@ -1,8 +1,37 @@
-# React + Vite
+# Listas de Compras App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este é um aplicativo simples de listas de compras desenvolvido em React e Vite.
 
-Currently, two official plugins are available:
+## Como Testar o Aplicativo Localmente
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Certifique-se de ter o Node.js e o npm instalados no seu sistema.
+
+### Passos:
+
+1. **Clone o repositório:**
+ ```bash
+ git clone https://github.com/joelsondeveloper/listas-de-compras.git
+```
+Navegue até o diretório do projeto:
+
+```bash
+cd listas-de-compras
+```
+Instale as dependências:
+
+```bash
+npm install
+```
+Inicie o servidor de desenvolvimento:
+
+```bash
+npm run dev
+```
+Abra o aplicativo no navegador:
+```
+http://localhost:3000
+```
+
+
+
+
