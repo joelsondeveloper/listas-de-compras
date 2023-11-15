@@ -8,16 +8,6 @@ pnpm-debug.log*
 lerna-debug.log*
 
 node_modules
-dist-ssr
+# dist (comentada para forçar a inclusão)
+# dist-ssr
 *.local
-
-# Editor directories and files
-.vscode/*
-!.vscode/extensions.json
-.idea
-.DS_Store
-*.suo
-*.ntvs*
-*.njsproj
-*.sln
-*.sw?
