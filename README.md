@@ -1,5 +1,7 @@
 # Listas de Compras App
 
+![Captura de Tela (7)](https://github.com/joelsondeveloper/listas-de-compras/assets/115474776/137bf2ee-9e9d-43f9-810c-1650bbd809fb)
+![Captura de Tela (8)](https://github.com/joelsondeveloper/listas-de-compras/assets/115474776/740baa1e-bd66-4ff8-a99e-62eca36bff9b)
 Este é um aplicativo simples de listas de compras desenvolvido em React e Vite.
 
 ## Como Testar o Aplicativo Localmente
@@ -17,6 +19,7 @@ Navegue até o diretório do projeto:
 ```bash
 cd listas-de-compras
 ```
+
 Instale as dependências:
 
 ```bash
